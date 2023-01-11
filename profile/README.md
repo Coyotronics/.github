@@ -14,7 +14,7 @@ transition your changes on a new branch. If you have already created a commit, y
 
 In order to actually makes the changes, you will need to 
 - Download the tools [here](http://192.168.64.3/Admin/Admin-Dashboard.html)
-- Navigate to a folder on your computer, and run ```git clone https://github.com/Coyotronics/ChargeUp2023.git```
+- Navigate to a folder on your computer, and run ```git clone https://github.com/Coyotronics/ChargedUp2023.git```
 - Open the folder with VSCode
 
 
